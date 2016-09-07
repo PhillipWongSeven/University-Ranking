@@ -1,7 +1,7 @@
 # University-Ranking
 
 ## Introduction
-The is the capstone project for my Machine Learning Nanodegree. In here, I build a machine learning model that would help us predict the ranking of a certain university given a certain set of five criterions('quality of education', 'alumni employment', 'publication', 'citations', 'patents'). Our model is found to have a testing accurency of 93%.
+The is the capstone project for my Machine Learning Nanodegree. In here, I build a machine learning model that would help us predict the ranking of a certain university given a certain set of five criterions('quality of education', 'alumni employment', 'publication', 'citations', 'patents'). Our model is found to have a testing accurency of 93%. You can look at the file [here](https://github.com/PhillipWongSeven/University-Ranking/blob/master/University%20Ranking.ipynb)
 
 ## System Requirement
 - Jupyter Notebook/Ipython Notebook 4.1.2 
