@@ -1,6 +1,7 @@
 # University-Ranking
 
-The is the capstone project for my Machine Learning Nanodegree. 
+## Introduction
+The is the capstone project for my Machine Learning Nanodegree. In here, I build a machine learning model that would help us predict the ranking of a certain university given a certain set of five criterions('quality of education', 'alumni employment', 'publication', 'citations', 'patents'). Our model is found to have a testing accurency of 93%.
 
 ## System Requirement
 - Jupyter Notebook/Ipython Notebook 4.1.2 
@@ -13,7 +14,7 @@ The is the capstone project for my Machine Learning Nanodegree.
 ## License
 MIT License
 
-Copyright (c) [2016] [Phillip Wong]
+Copyright (c) 2016-2017 Phillip Wong
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
