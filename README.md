@@ -3,12 +3,12 @@
 The is the capstone project for my Machine Learning Nanodegree. 
 
 ## System Requirement
-*Jupyter Notebook/Ipython Notebook 4.1.2 
-*Python 2.7.12
-*Numpy 1.11.0
-*Pandas 0.18.0
-*matplotlib 1.5.1
-*sklearn 0.17.1
+- Jupyter Notebook/Ipython Notebook 4.1.2 
+- Python 2.7.12
+- Numpy 1.11.0
+- Pandas 0.18.0
+- matplotlib 1.5.1
+- sklearn 0.17.1
  
 # License
 MIT License
