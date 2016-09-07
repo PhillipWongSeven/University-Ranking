@@ -10,7 +10,7 @@ The is the capstone project for my Machine Learning Nanodegree.
 - matplotlib 1.5.1
 - sklearn 0.17.1
  
-# License
+## License
 MIT License
 
 Copyright (c) [2016] [Phillip Wong]
